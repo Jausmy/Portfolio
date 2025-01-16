@@ -1,5 +1,3 @@
-# Jausmy Longange's Data Analytics Portfolio
-
 ## Obesity Dashboard Project
 
 ## Loan Risk Factors Project
