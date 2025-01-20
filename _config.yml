@@ -1,5 +1,6 @@
 title: Jausmy Longange's Data Analytics Portfolio
 logo: assets/images/Portfolio Pic.png
+description: Hello, welcome to my analytics page
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
