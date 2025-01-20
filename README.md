@@ -1,4 +1,4 @@
-## [Obesity Dashboard Project](https://jausmy.github.io/Obesity-Dashboard/)
+## [Obesity Dashboard Project](https://jausmy.github.io/Obesity-Dashboard/) (Excel, SQL, & Power BI)
 
 ## [Loan Risk Factors Project](https://jausmy.github.io/Loan-Dashboard/)
 
