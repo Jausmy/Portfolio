@@ -1,6 +1,6 @@
 ## [Obesity Dashboard Project](https://jausmy.github.io/Obesity-Dashboard/) (Excel, SQL, & Power BI)
 
-## [Loan Risk Factors Project](https://jausmy.github.io/Loan-Dashboard/)
+## [Loan Risk Factors Project (Excel, SQL, & Power BI)](https://jausmy.github.io/Loan-Dashboard/)
 
 ## [Healthcare Dataset Project](https://jausmy.github.io/Healthcare/)
 
