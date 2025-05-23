@@ -1,3 +1,8 @@
+## [Employee Payroll Dashboard Project](https://jausmy.github.io/Payroll-Dashboard/) (Excel & Power BI)
+![Payroll-Image](assets/images/Payroll%20Dashboard%20Main%20Image.jpg)
+
+This report presents a comprehensive analysis of the company's 2024 payroll data. By examining compensation structures, departmental trends, and payment methods, we aim to identify opportunities to optimize payroll processes, improve compensation equity, and reduce operational costs.
+
 ## [Obesity Dashboard Project](https://jausmy.github.io/Obesity-Dashboard/) (Excel, SQL, & Power BI)
 ![Obesity-Image](assets/images/Obesity%20Main%20Image.jpg)
 
